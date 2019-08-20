@@ -1,0 +1,8 @@
+C:\Users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\bin\Release\screenshot.exe.config
+C:\Users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\bin\Release\screenshot.exe
+C:\Users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\bin\Release\screenshot.pdb
+C:\Users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\obj\Release\screenshot.Form1.resources
+C:\Users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\obj\Release\screenshot.Properties.Resources.resources
+C:\Users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\obj\Release\screenshot.csproj.GenerateResource.Cache
+C:\Users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\obj\Release\screenshot.exe
+C:\Users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\obj\Release\screenshot.pdb

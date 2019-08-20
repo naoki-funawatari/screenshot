@@ -1,0 +1,9 @@
+c:\users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\bin\Debug\screenshot.exe.config
+c:\users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\bin\Debug\screenshot.exe
+c:\users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\bin\Debug\screenshot.pdb
+c:\users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\obj\Debug\screenshot.csprojResolveAssemblyReference.cache
+c:\users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\obj\Debug\screenshot.Form1.resources
+c:\users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\obj\Debug\screenshot.Properties.Resources.resources
+c:\users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\obj\Debug\screenshot.csproj.GenerateResource.Cache
+c:\users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\obj\Debug\screenshot.exe
+c:\users\mu615\documents\visual studio 2015\Projects\screenshot\screenshot\obj\Debug\screenshot.pdb
